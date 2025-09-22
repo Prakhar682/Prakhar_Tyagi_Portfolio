@@ -1,5 +1,6 @@
 "Welcome to my portfolio! This collection features a variety of projects I've developed using foundational front-end technologies. Each project is crafted with clean, semantic HTML for structure, styled using modern CSS techniques for a responsive and intuitive user experience, and brought to life with interactive functionality powered by JavaScript. My work reflects my dedication to creating accessible and visually appealing web applications. Feel free to explore and get in touch!"<img width="1895" height="900" alt="Screenshot 2025-09-23 004858" src="https://github.com/user-attachments/assets/07eaa7ff-0c1b-4477-8d54-8c3f7ea1b54a" />
-<img width="1884" height="907" alt="Screenshot 2025-09-23 004910" src="https://github.com/user-attachments/assets/ef00a9ab-6a62-440f-93b8-e63fccc5a74b" />
+<img width="1884" height="907" alt="Screenshot 2025-09-23 004910" src="https://github.com/user-<img width="1892" height="906" alt="Screenshot 2025-09-23 005254" src="https://github.com/user-attachments/assets/4b7026a5-0558-43fa-926e-26ca6a88d592" />
+attachments/assets/ef00a9ab-6a62-440f-93b8-e63fccc5a74b" />
 <img width="1875" height="916" alt="Screenshot 2025-09-23 004924" src="https://github.com/user-attachments/assets/efe32be8-40cf-4b23-a5d9-e3a313612a15" />
 <img width="1890" height="914" alt="Screenshot 2025-09-23 004935" src="https://github.com/user-attachments/assets/5665817d-2e22-4921-839a-4b2e1013f5af" />
 <img width="1901" height="906" alt="Screenshot 2025-09-23 004943" src="https://github.com/user-attachments/assets/5f318112-d756-4d78-8e4d-efc02c91cb06" />
